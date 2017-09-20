@@ -1,10 +1,11 @@
 /** \file
  * "Tennis for Two", for vector monitors.
+ * requires Game Control Plus 1.2.1 Peter Lager  Use joysticks, gamepads and other control devices in your sketch.
  */
 
 import net.java.games.input.*;
 import org.gamecontrolplus.*;
-//import org.gamecontrolplus.gui.*;
+import org.gamecontrolplus.gui.*;
 
 ControlIO control;
 Configuration config;
@@ -32,7 +33,7 @@ final float decay = 0.9;
 void setup() {
 	vector_setup();
   
-	size(512, 512);
+	size(512, 512,P3D);
 	surface.setResizable(true);
 
 	frameRate(25);

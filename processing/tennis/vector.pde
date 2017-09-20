@@ -21,7 +21,7 @@ vector_setup()
 	for(String port : Serial.list())
 	{
 		println(port);
-		if (match(port, "usbmode|ACM") == null)
+		if (match(port, "COM19|usbmode|ACM") == null)
 			continue;
 		vector_serial = new Serial(this, port, 9600); 
 		return;

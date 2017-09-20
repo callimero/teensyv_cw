@@ -19,7 +19,7 @@ void setup() {
     v = new Vst(this, createSerial());
     v.displayTransit = true;
 
-    size(1024, 1024, P2D);
+    size(1024, 1024, P3D);
     surface.setResizable(true);
 
     blendMode(ADD);
