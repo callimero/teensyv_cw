@@ -1,0 +1,973 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   shape-rendering="crispEdges"
+   width="12.2745in"
+   height="8.68665in"
+   viewBox="-10 -10.7 1169 827.3"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Poti_Schalter.svg">
+  <metadata
+     id="metadata199">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs197" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1132"
+     id="namedview195"
+     showgrid="false"
+     inkscape:zoom="3.4152472"
+     inkscape:cx="386.83474"
+     inkscape:cy="428.69337"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g167" />
+  <g
+     id="g6">
+    <text
+       x="572.640625"
+       y="-3"
+       font-family="Arial"
+       font-size="7pt"
+       fill="#000080"
+       display="none"
+       text-anchor="start"
+       id="text8">NO </text>
+    <text
+       x="572.6484375"
+       y="-13.703125"
+       font-family="Arial"
+       font-size="7pt"
+       fill="#000080"
+       display="none"
+       text-anchor="start"
+       id="text10">. </text>
+    <path
+       d="M 206 10 L 206 0 M 206 796 L 206 806 M 402 10 L 402 0 M 402 796 L 402 806 M 598 10 L 598 0 M 598 796 L 598 806 M 794 10 L 794 0 M 794 796 L 794 806 M 990 10 L 990 0 M 990 796 L 990 806 M 10 206 L 0 206 M 1139 206 L 1149 206 M 10 402 L 0 402 M 1139 402 L 1149 402 M 10 598 L 0 598 M 1139 598 L 1149 598 M 10 794 L 0 794 M 1139 794 L 1149 794"
+       stroke="#880000"
+       stroke-width="1"
+       fill="none"
+       id="path12" />
+    <text
+       x="1.5"
+       y="108"
+       font-family="Verdana,msyh"
+       font-size="7pt"
+       fill="#880000"
+       font-style="normal"
+       text-anchor="start"
+       type="comment"
+       font-weight="normal"
+       id="text14">A </text>
+    <text
+       x="1140.5"
+       y="108"
+       font-family="Verdana,msyh"
+       font-size="7pt"
+       fill="#880000"
+       font-style="normal"
+       text-anchor="start"
+       type="comment"
+       font-weight="normal"
+       id="text16">A </text>
+    <text
+       x="1.5"
+       y="304"
+       font-family="Verdana,msyh"
+       font-size="7pt"
+       fill="#880000"
+       font-style="normal"
+       text-anchor="start"
+       type="comment"
+       font-weight="normal"
+       id="text18">B </text>
+    <text
+       x="1140.5"
+       y="304"
+       font-family="Verdana,msyh"
+       font-size="7pt"
+       fill="#880000"
+       font-style="normal"
+       text-anchor="start"
+       type="comment"
+       font-weight="normal"
+       id="text20">B </text>
+    <text
+       x="1.5"
+       y="500"
+       font-family="Verdana,msyh"
+       font-size="7pt"
+       fill="#880000"
+       font-style="normal"
+       text-anchor="start"
+       type="comment"
+       font-weight="normal"
+       id="text22">C </text>
+    <text
+       x="1140.5"
+       y="500"
+       font-family="Verdana,msyh"
+       font-size="7pt"
+       fill="#880000"
+       font-style="normal"
+       text-anchor="start"
+       type="comment"
+       font-weight="normal"
+       id="text24">C </text>
+    <text
+       x="1.5"
+       y="696"
+       font-family="Verdana,msyh"
+       font-size="7pt"
+       fill="#880000"
+       font-style="normal"
+       text-anchor="start"
+       type="comment"
+       font-weight="normal"
+       id="text26">D </text>
+    <text
+       x="1140.5"
+       y="696"
+       font-family="Verdana,msyh"
+       font-size="7pt"
+       fill="#880000"
+       font-style="normal"
+       text-anchor="start"
+       type="comment"
+       font-weight="normal"
+       id="text28">D </text>
+    <text
+       x="108"
+       y="8.5"
+       font-family="Verdana,msyh"
+       font-size="7pt"
+       fill="#880000"
+       font-style="normal"
+       text-anchor="start"
+       type="comment"
+       font-weight="normal"
+       id="text30">1 </text>
+    <text
+       x="108"
+       y="804.5"
+       font-family="Verdana,msyh"
+       font-size="7pt"
+       fill="#880000"
+       font-style="normal"
+       text-anchor="start"
+       type="comment"
+       font-weight="normal"
+       id="text32">1 </text>
+    <text
+       x="304"
+       y="8.5"
+       font-family="Verdana,msyh"
+       font-size="7pt"
+       fill="#880000"
+       font-style="normal"
+       text-anchor="start"
+       type="comment"
+       font-weight="normal"
+       id="text34">2 </text>
+    <text
+       x="304"
+       y="804.5"
+       font-family="Verdana,msyh"
+       font-size="7pt"
+       fill="#880000"
+       font-style="normal"
+       text-anchor="start"
+       type="comment"
+       font-weight="normal"
+       id="text36">2 </text>
+    <text
+       x="500"
+       y="8.5"
+       font-family="Verdana,msyh"
+       font-size="7pt"
+       fill="#880000"
+       font-style="normal"
+       text-anchor="start"
+       type="comment"
+       font-weight="normal"
+       id="text38">3 </text>
+    <text
+       x="500"
+       y="804.5"
+       font-family="Verdana,msyh"
+       font-size="7pt"
+       fill="#880000"
+       font-style="normal"
+       text-anchor="start"
+       type="comment"
+       font-weight="normal"
+       id="text40">3 </text>
+    <text
+       x="696"
+       y="8.5"
+       font-family="Verdana,msyh"
+       font-size="7pt"
+       fill="#880000"
+       font-style="normal"
+       text-anchor="start"
+       type="comment"
+       font-weight="normal"
+       id="text42">4 </text>
+    <text
+       x="696"
+       y="804.5"
+       font-family="Verdana,msyh"
+       font-size="7pt"
+       fill="#880000"
+       font-style="normal"
+       text-anchor="start"
+       type="comment"
+       font-weight="normal"
+       id="text44">4 </text>
+    <text
+       x="892"
+       y="8.5"
+       font-family="Verdana,msyh"
+       font-size="7pt"
+       fill="#880000"
+       font-style="normal"
+       text-anchor="start"
+       type="comment"
+       font-weight="normal"
+       id="text46">5 </text>
+    <text
+       x="892"
+       y="804.5"
+       font-family="Verdana,msyh"
+       font-size="7pt"
+       fill="#880000"
+       font-style="normal"
+       text-anchor="start"
+       type="comment"
+       font-weight="normal"
+       id="text48">5 </text>
+    <rect
+       x="10"
+       y="10"
+       width="1129"
+       height="786"
+       stroke="#880000"
+       stroke-width="1"
+       fill="none"
+       id="rect50" />
+    <rect
+       x="0"
+       y="0"
+       width="1149"
+       height="806"
+       stroke="#880000"
+       stroke-width="1"
+       fill="none"
+       id="rect52" />
+    <rect
+       x="739"
+       y="716"
+       width="400"
+       height="80"
+       stroke="#880000"
+       stroke-width="1"
+       fill="none"
+       id="rect54" />
+    <polyline
+       points="739 756 1139 756"
+       stroke="#880000"
+       stroke-width="1"
+       fill="none"
+       stroke-linecap="round"
+       id="polyline56" />
+    <polyline
+       points="739 776 1139 776"
+       stroke="#880000"
+       stroke-width="1"
+       fill="none"
+       stroke-linecap="round"
+       id="polyline58" />
+    <polyline
+       points="1059 716 1059 756"
+       stroke="#880000"
+       stroke-width="1"
+       fill="none"
+       stroke-linecap="round"
+       id="polyline60" />
+    <polyline
+       points="1019 756 1019 776"
+       stroke="#880000"
+       stroke-width="1"
+       fill="none"
+       stroke-linecap="round"
+       id="polyline62" />
+    <polyline
+       points="934 776 934 796"
+       stroke="#880000"
+       stroke-width="1"
+       fill="none"
+       stroke-linecap="round"
+       id="polyline64" />
+    <text
+       x="744"
+       y="728"
+       font-family="Verdana,msyh"
+       font-size="8pt"
+       fill="#880000"
+       font-style="normal"
+       text-anchor="start"
+       type="comment"
+       font-weight="normal"
+       id="text66">TITLE: </text>
+    <text
+       x="749"
+       y="746"
+       font-family="Verdana,msyh"
+       font-size="10pt"
+       fill="#0000FF"
+       font-style="normal"
+       text-anchor="start"
+       type="comment"
+       font-weight="normal"
+       id="text68">New Schematic </text>
+    <text
+       x="1065"
+       y="742"
+       font-family="Verdana,msyh"
+       font-size="8pt"
+       fill="#880000"
+       font-style="normal"
+       text-anchor="start"
+       type="comment"
+       font-weight="normal"
+       id="text70">REV: </text>
+    <text
+       x="1096"
+       y="743"
+       font-family="Verdana,msyh"
+       font-size="9pt"
+       fill="#0000FF"
+       font-style="normal"
+       text-anchor="start"
+       type="comment"
+       font-weight="normal"
+       id="text72">1.0 </text>
+    <text
+       x="744"
+       y="771"
+       font-family="Verdana,msyh"
+       font-size="8pt"
+       fill="#880000"
+       font-style="normal"
+       text-anchor="start"
+       type="comment"
+       font-weight="normal"
+       id="text74">Date: </text>
+    <text
+       x="794"
+       y="771"
+       font-family="Verdana,msyh"
+       font-size="9pt"
+       fill="#0000FF"
+       font-style="normal"
+       text-anchor="start"
+       type="comment"
+       font-weight="normal"
+       id="text76">2017-11-17 </text>
+    <text
+       x="1024"
+       y="771"
+       font-family="Verdana,msyh"
+       font-size="8pt"
+       fill="#880000"
+       font-style="normal"
+       text-anchor="start"
+       type="comment"
+       font-weight="normal"
+       id="text78">Sheet: </text>
+    <text
+       x="1069"
+       y="771"
+       font-family="Verdana,msyh"
+       font-size="9pt"
+       fill="#0000FF"
+       font-style="normal"
+       text-anchor="start"
+       type="comment"
+       font-weight="normal"
+       id="text80">1/1 </text>
+    <text
+       x="744"
+       y="791"
+       font-family="Verdana,msyh"
+       font-size="8pt"
+       fill="#880000"
+       font-style="normal"
+       text-anchor="start"
+       type="comment"
+       font-weight="normal"
+       id="text82">EasyEDA V4.10.3 </text>
+    <text
+       x="944"
+       y="791"
+       font-family="Verdana,msyh"
+       font-size="8pt"
+       fill="#880000"
+       font-style="normal"
+       text-anchor="start"
+       type="comment"
+       font-weight="normal"
+       id="text84">Drawn By: </text>
+    <text
+       x="1009"
+       y="791"
+       font-family="Verdana,msyh"
+       font-size="9pt"
+       fill="#0000FF"
+       font-style="normal"
+       text-anchor="start"
+       type="comment"
+       font-weight="normal"
+       id="text86">carsten.wartmann </text>
+  </g>
+  <g
+     id="g88"
+     inkscape:export-xdpi="299.7532"
+     inkscape:export-ydpi="299.7532">
+    <text
+       x="276.421875"
+       y="337"
+       font-family="Arial"
+       font-size="7pt"
+       fill="#000080"
+       text-anchor="start"
+       id="text90">10k </text>
+    <text
+       x="276.421875"
+       y="328.3359375"
+       font-family="Arial"
+       font-size="7pt"
+       fill="#000080"
+       text-anchor="start"
+       id="text92">POT </text>
+    <rect
+       x="297"
+       y="315"
+       rx=".1"
+       ry=".1"
+       width="6"
+       height="20"
+       stroke="#880000"
+       stroke-width="1"
+       fill="none"
+       id="rect94" />
+    <g
+       c_partid="part_pin"
+       c_etype="pinpart"
+       c_show="show"
+       c_elec="0"
+       c_spicepin="2"
+       c_origin="300 ,345"
+       id="0"
+       c_rotation="90">
+      <path
+         d="M 300 345 v -10"
+         fill="none"
+         stroke="#8D2323"
+         stroke-width="1"
+         id="path97" />
+      <circle
+         cx="300"
+         cy="332"
+         r="3"
+         fill="none"
+         stroke="#8D2323"
+         stroke-width="1"
+         display="none"
+         id="circle99" />
+      <path
+         d="M 297 335 L 300 338 L 303 335"
+         fill="none"
+         stroke="#8D2323"
+         stroke-width="1"
+         display="none"
+         id="path101" />
+    </g>
+    <g
+       c_partid="part_pin"
+       c_etype="pinpart"
+       c_show="show"
+       c_elec="0"
+       c_spicepin="1"
+       c_origin="300 ,305"
+       id="g103"
+       c_rotation="270">
+      <path
+         d="M 300 305 v 10"
+         fill="none"
+         stroke="#8D2323"
+         stroke-width="1"
+         id="path105" />
+      <circle
+         cx="300"
+         cy="318"
+         r="3"
+         fill="none"
+         stroke="#8D2323"
+         stroke-width="1"
+         display="none"
+         id="circle107" />
+      <path
+         d="M 303 315 L 300 312 L 297 315"
+         fill="none"
+         stroke="#8D2323"
+         stroke-width="1"
+         display="none"
+         id="path109" />
+    </g>
+    <g
+       c_partid="part_pin"
+       c_etype="pinpart"
+       c_show="show"
+       c_elec="0"
+       c_spicepin="3"
+       c_origin="320 ,325"
+       id="g111"
+       c_rotation="0">
+      <path
+         d="M 320 325 h -13"
+         fill="none"
+         stroke="#8D2323"
+         stroke-width="1"
+         id="path113" />
+      <circle
+         cx="310"
+         cy="325"
+         r="3"
+         fill="none"
+         stroke="#8D2323"
+         stroke-width="1"
+         display="none"
+         id="circle115" />
+      <path
+         d="M 307 322 L 304 325 L 307 328"
+         fill="none"
+         stroke="#8D2323"
+         stroke-width="1"
+         display="none"
+         id="path117" />
+    </g>
+    <polygon
+       points="306.75 322.625 306.75 327.625 303.563 324.938"
+       stroke="#880000"
+       stroke-width="1"
+       fill="#880000"
+       stroke-linecap="round"
+       id="polygon119" />
+    <ellipse
+       cx="303"
+       cy="339"
+       rx="1"
+       ry="1"
+       stroke="#A00000"
+       stroke-width="1"
+       fill="none"
+       id="ellipse121" />
+  </g>
+  <text
+     x="290"
+     y="278"
+     font-family="Times New Roman,msyh"
+     font-size="9pt"
+     fill="#000000"
+     text-anchor="start"
+     id="text123"
+     inkscape:export-xdpi="299.7532"
+     inkscape:export-ydpi="299.7532">VCC </text>
+  <polyline
+     points="300 280 300 290"
+     stroke="#000000"
+     stroke-width="1"
+     fill="none"
+     stroke-linecap="round"
+     id="polyline125"
+     inkscape:export-xdpi="299.7532"
+     inkscape:export-ydpi="299.7532" />
+  <polyline
+     points="295 280 305 280"
+     stroke="#000000"
+     stroke-width="1"
+     fill="none"
+     stroke-linecap="round"
+     id="polyline127"
+     inkscape:export-xdpi="299.7532"
+     inkscape:export-ydpi="299.7532" />
+  <text
+     x="289"
+     y="347"
+     font-family="Times New Roman,msyh"
+     font-size="9pt"
+     fill="#000080"
+     text-anchor="start"
+     display="none"
+     id="text129">GND </text>
+  <polyline
+     points="300 370 300 360"
+     stroke="#000000"
+     stroke-width="1"
+     fill="none"
+     stroke-linecap="round"
+     id="polyline131"
+     inkscape:export-xdpi="299.7532"
+     inkscape:export-ydpi="299.7532" />
+  <polyline
+     points="290 370 309 370"
+     stroke="#000000"
+     stroke-width="1"
+     fill="none"
+     stroke-linecap="round"
+     id="polyline133"
+     inkscape:export-xdpi="299.7532"
+     inkscape:export-ydpi="299.7532" />
+  <polyline
+     points="294 372 307 372"
+     stroke="#000000"
+     stroke-width="1"
+     fill="none"
+     stroke-linecap="round"
+     id="polyline135"
+     inkscape:export-xdpi="299.7532"
+     inkscape:export-ydpi="299.7532" />
+  <polyline
+     points="296 374 303 374"
+     stroke="#000000"
+     stroke-width="1"
+     fill="none"
+     stroke-linecap="round"
+     id="polyline137"
+     inkscape:export-xdpi="299.7532"
+     inkscape:export-ydpi="299.7532" />
+  <polyline
+     points="299 376 301 376"
+     stroke="#000000"
+     stroke-width="1"
+     fill="none"
+     stroke-linecap="round"
+     id="polyline139"
+     inkscape:export-xdpi="299.7532"
+     inkscape:export-ydpi="299.7532" />
+  <ellipse
+     cx="345"
+     cy="370"
+     rx="5"
+     ry="5"
+     stroke="#000000"
+     stroke-width="1"
+     fill="none"
+     id="ellipse141"
+     inkscape:export-xdpi="299.7532"
+     inkscape:export-ydpi="299.7532" />
+  <polyline
+     points="300 290 300 305"
+     stroke="#008800"
+     stroke-width="1"
+     fill="none"
+     stroke-linecap="round"
+     id="polyline143"
+     inkscape:export-xdpi="299.7532"
+     inkscape:export-ydpi="299.7532" />
+  <polyline
+     points="300 345 300 360"
+     stroke="#008800"
+     stroke-width="1"
+     fill="none"
+     stroke-linecap="round"
+     id="polyline145"
+     inkscape:export-xdpi="299.7532"
+     inkscape:export-ydpi="299.7532" />
+  <path
+     style="fill:none;stroke:#008800;stroke-width:1;stroke-linecap:round"
+     d="m 320,325 25,0 0,39.60098"
+     id="polyline147"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccc"
+     inkscape:export-xdpi="299.7532"
+     inkscape:export-ydpi="299.7532" />
+  <text
+     x="429"
+     y="347"
+     font-family="Times New Roman,msyh"
+     font-size="9pt"
+     fill="#000080"
+     text-anchor="start"
+     display="none"
+     id="text149">GND </text>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round"
+     d="m 440,370 0,-10"
+     id="polyline151"
+     inkscape:export-xdpi="299.7532"
+     inkscape:export-ydpi="299.7532" />
+  <polyline
+     points="430 370 449 370"
+     stroke="#000000"
+     stroke-width="1"
+     fill="none"
+     stroke-linecap="round"
+     id="polyline153"
+     inkscape:export-xdpi="299.7532"
+     inkscape:export-ydpi="299.7532" />
+  <polyline
+     points="434 372 447 372"
+     stroke="#000000"
+     stroke-width="1"
+     fill="none"
+     stroke-linecap="round"
+     id="polyline155"
+     inkscape:export-xdpi="299.7532"
+     inkscape:export-ydpi="299.7532" />
+  <polyline
+     points="436 374 443 374"
+     stroke="#000000"
+     stroke-width="1"
+     fill="none"
+     stroke-linecap="round"
+     id="polyline157"
+     inkscape:export-xdpi="299.7532"
+     inkscape:export-ydpi="299.7532" />
+  <polyline
+     points="439 376 441 376"
+     stroke="#000000"
+     stroke-width="1"
+     fill="none"
+     stroke-linecap="round"
+     id="polyline159"
+     inkscape:export-xdpi="299.7532"
+     inkscape:export-ydpi="299.7532" />
+  <text
+     x="430"
+     y="278"
+     font-family="Times New Roman,msyh"
+     font-size="9pt"
+     fill="#000080"
+     text-anchor="start"
+     id="text161"
+     inkscape:export-xdpi="299.7532"
+     inkscape:export-ydpi="299.7532">VCC </text>
+  <polyline
+     points="440 280 440 290"
+     stroke="#0000ff"
+     stroke-width="1"
+     fill="none"
+     stroke-linecap="round"
+     id="polyline163"
+     inkscape:export-xdpi="299.7532"
+     inkscape:export-ydpi="299.7532" />
+  <polyline
+     points="435 280 445 280"
+     stroke="#0000ff"
+     stroke-width="1"
+     fill="none"
+     stroke-linecap="round"
+     id="polyline165"
+     inkscape:export-xdpi="299.7532"
+     inkscape:export-ydpi="299.7532" />
+  <g
+     c_rotation="270"
+     id="g167"
+     inkscape:export-xdpi="299.7532"
+     inkscape:export-ydpi="299.7532">
+    <text
+       x="446"
+       y="322.20313"
+       font-size="7pt"
+       id="text169"
+       style="font-size:8.75px;font-family:Arial;text-anchor:start;fill:#000080"
+       inkscape:export-xdpi="299"
+       inkscape:export-ydpi="299">10k</text>
+    <text
+       x="446.016"
+       y="313.140625"
+       font-family="Arial"
+       font-size="7pt"
+       fill="#000080"
+       text-anchor="start"
+       id="text171"
+       inkscape:export-xdpi="299"
+       inkscape:export-ydpi="299">R1 </text>
+    <rect
+       x="436"
+       y="300"
+       width="8"
+       height="20"
+       stroke="#A00000"
+       stroke-width="1"
+       fill="none"
+       id="rect173"
+       inkscape:export-xdpi="299"
+       inkscape:export-ydpi="299" />
+    <g
+       c_partid="part_pin"
+       c_etype="pinpart"
+       c_show="show"
+       c_elec="0"
+       c_spicepin="2"
+       c_origin="460 ,290"
+       id="g175"
+       c_rotation="270"
+       inkscape:export-xdpi="299"
+       inkscape:export-ydpi="299">
+      <path
+         d="M 440 320 v 10"
+         fill="none"
+         stroke="#800"
+         stroke-width="1"
+         id="path177" />
+      <circle
+         cx="460"
+         cy="303"
+         r="3"
+         fill="none"
+         stroke="#800"
+         stroke-width="1"
+         display="none"
+         id="circle179" />
+      <path
+         d="M 463 300 L 460 297 L 457 300"
+         fill="none"
+         stroke="#800"
+         stroke-width="1"
+         display="none"
+         id="path181" />
+    </g>
+    <g
+       c_partid="part_pin"
+       c_etype="pinpart"
+       c_show="show"
+       c_elec="0"
+       c_spicepin="1"
+       c_origin="460 ,290"
+       id="g183"
+       c_rotation="90"
+       inkscape:export-xdpi="299"
+       inkscape:export-ydpi="299">
+      <path
+         d="M 440 300 v -10"
+         fill="none"
+         stroke="#800"
+         stroke-width="1"
+         id="path185" />
+      <circle
+         cx="460"
+         cy="277"
+         r="3"
+         fill="none"
+         stroke="#800"
+         stroke-width="1"
+         display="none"
+         id="circle187" />
+      <path
+         d="M 457 280 L 460 283 L 463 280"
+         fill="none"
+         stroke="#800"
+         stroke-width="1"
+         display="none"
+         id="path189" />
+    </g>
+  </g>
+  <ellipse
+     cx="490"
+     cy="370"
+     rx="5"
+     ry="5"
+     stroke="#000000"
+     stroke-width="1"
+     fill="none"
+     id="ellipse191"
+     inkscape:export-xdpi="299.7532"
+     inkscape:export-ydpi="299.7532" />
+  <polyline
+     points="440 330 490 330 490 365"
+     stroke="#008800"
+     stroke-width="1"
+     fill="none"
+     stroke-linecap="round"
+     id="polyline193"
+     inkscape:export-xdpi="299.7532"
+     inkscape:export-ydpi="299.7532" />
+  <circle
+     style="opacity:0.90399996;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.11640215;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4328"
+     cx="439.97403"
+     cy="330.06415"
+     r="1.316846"
+     inkscape:export-xdpi="299.7532"
+     inkscape:export-ydpi="299.7532" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.05820107px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 440.01552,360.24206 0,-7.28138 -6.19116,-10.72341"
+     id="path4330"
+     inkscape:connector-curvature="0"
+     inkscape:export-xdpi="299.7532"
+     inkscape:export-ydpi="299.7532" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.05820107px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 439.96491,330.10115 0,12.05018 -1.80753,0"
+     id="path4332"
+     inkscape:connector-curvature="0"
+     inkscape:export-xdpi="299.7532"
+     inkscape:export-ydpi="299.7532" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:10.9890976px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="337.27252"
+     y="384.91916"
+     id="text4335"
+     sodipodi:linespacing="125%"
+     inkscape:export-xdpi="299.7532"
+     inkscape:export-ydpi="299.7532"><tspan
+       sodipodi:role="line"
+       id="tspan4337"
+       x="337.27252"
+       y="384.91916">A0</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:10.9890976px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="481.91449"
+     y="384.91916"
+     id="text4335-9"
+     sodipodi:linespacing="125%"
+     inkscape:export-xdpi="299.7532"
+     inkscape:export-ydpi="299.7532"><tspan
+       sodipodi:role="line"
+       id="tspan4337-6"
+       x="481.91449"
+       y="384.91916">D0</tspan></text>
+</svg>
